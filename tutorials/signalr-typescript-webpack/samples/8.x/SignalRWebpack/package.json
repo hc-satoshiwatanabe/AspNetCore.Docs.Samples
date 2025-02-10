@@ -23,7 +23,7 @@
     "webpack-cli": "5.0.1"
   },
   "dependencies": {
-    "@microsoft/signalr": "^7.0.4",
-    "@types/node": "^18.15.3"
+    "@microsoft/signalr": "^7.0.14",
+    "@types/node": "^18.19.75"
   }
 }
